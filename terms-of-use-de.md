@@ -34,8 +34,17 @@ Der Support wird nicht garantiert. Das VDT-Team hilft aber gerne so gut es geht 
 
 ### 7. Löschung von Nutzerkonten
 + Sie haben jederzeit die Möglichkeit, ihr Nutzerkonto oder Ihre Weiterleitung unter _**MyVDT > E-Mail > „tonmeisterei“ E-Mail-Administration**_ Reiter **Nutzung** selbst zu löschen.
-+ Ihr Postfach oder Ihre Weiterleitung wird zu dem Termin, an dem Ihre Mitgliedschaft endet, ohne weitere Benachrichtigung gelöscht.
-+ E-Mail-Nutzerkonten von verstorbenen Mitgliedern werden sechs Monate nach dem Tod automatisch gelöscht. Innerhalb dieses Zeitraums ist es möglich, dass berechtigte Erben auf das Konto zugreifen, Daten sichern und dann das Konto selbst löschen, sofern die Zugangsdaten bekannt sind. Passwörter werden grundsätzlich verschlüsselt gespeichert. Insofern sind diese auch uns nicht bekannt. Eine Rücksetzung der Zugangsdaten um berechtigten Erben Zugriff auf das Konto zu gewähren, wird unsererseits ohne gerichtliche Anordnung nicht vorgenommen.
++ Ihr Postfach oder Ihre Weiterleitung wird grundsätzlich zu dem Termin, an dem Ihre Mitgliedschaft endet, ohne weitere Benachrichtigung gelöscht.
+
+#### Für den Todesfall gelten abweichend davon folgende Regelungen:
+
++ E-Mail-Nutzerkonten verstorbener Mitglieder werden sechs Monate nach dem Tod automatisch gelöscht. Innerhalb dieses Zeitraums können die berechtigten Erben nach entsprechendem Nachweis ihrer Erbenstellung Zugang zum bestehenden E-Mail-Konto erhalten, um die darin gespeicherten Daten einzusehen und gegebenenfalls zu sichern.
+
++ Da die Passwörter aus Sicherheitsgründen verschlüsselt gespeichert werden und dem VDT nicht bekannt sind, kann der Zugang gegebenenfalls durch eine Zurücksetzung der Zugangsdaten ermöglicht werden. Der VDT behält sich vor, hierfür geeignete Nachweise der Erbenstellung sowie gegebenenfalls eine Bevollmächtigung der übrigen Miterben zu verlangen.
+
++ Die weitere aktive Nutzung der E-Mail-Adresse als Verbandsadresse ist nicht Bestandteil dieses Zugangsrechts und bleibt an eine bestehende Mitgliedschaft gebunden.
+
++ Nach Ablauf der sechsmonatigen Frist wird das E-Mail-Nutzerkonto einschließlich der darin gespeicherten Daten endgültig gelöscht.
 
 ### 8. Haftungsauschluss
 Der Verband Deutscher Tonmeister e. V. als Betreiber eines kostenlosen E-Mail Services für seine Mitglieder haftet in keiner Form für mittelbare oder unmittelbare Schäden, die sich aus der Nutzung[^1] oder dem Betrieb[^2] dieses Service ergeben, es sei denn, die Schäden sind auf grob fahrlässiges oder vorsätzliches Handeln zurückzuführen, welches vom Verband Deutscher Tonmeister e. V. zu vertreten ist.
@@ -48,4 +57,4 @@ Desweiteren haftet der Verband Deutscher Tonmeister e. V. (VDT) nicht für mitte
 
 ---
 
-###### letzte Aktualisierung: 09. August 2024
+###### letzte Aktualisierung: 13. November 2026

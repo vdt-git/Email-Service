@@ -33,9 +33,18 @@ Further information, e.g. Set-up aids for your e-mail program can be found in th
 Support is not guaranteed. The VDT team is happy to help as much as possible and within the time and financial capacities.
 
 ### 7. Deletion of user accounts
-+ You can delete your user account or forwarding yourself at any time under _**MyVDT > Email > "tonmeisterei" Email administration**_ tab **Use**.
-+ Your mailbox or forwarding will be deleted on the date on which your membership ends without further notice.
-+ Email user accounts of deceased members are automatically deleted 6 months after death. Within this period, it is possible for authorized heirs to access the account, back up data and then delete the account themselves, provided the access data is known. Passwords are always encrypted. In this respect, they are not known to us either. We do not reset the access data in order to grant authorized heirs access to the account without a court order.
++ You may delete your user account or forwarding yourself at any time under _**MyVDT > Email > "tonmeisterei" Email administration**_ tab **Use**.
++ Your mailbox or forwarding will generally be deleted on the date your membership ends, without further notice.
+
+#### In the event of death, the following provisions apply:
+
++ Email user accounts of deceased members are automatically deleted six months after their death. Within this period, the entitled heirs may, upon providing appropriate proof of their status as heirs, gain access to the existing email account in order to view and, if necessary, back up the data stored therein.
+
++ As passwords are stored in encrypted form for security reasons and are not known to the VDT, access may, where necessary, be granted by resetting the login details. The VDT reserves the right to request appropriate proof of heir status and, where applicable, authorisation from the other co-heirs.
+
++ The continued active use of the email address as an association address is not part of this right of access and remains subject to existing membership.
+
++ Upon expiry of the six-month period, the email user account, including the data stored therein, will be permanently deleted.
 
 ### 8. Disclaimer
 The Verband Deutscher Tonmeister e. V. (VDT) as the operator of a free e-mail service for its members is in no way liable for indirect or direct damage resulting from the use[^1] or the operation[^2] of this service, unless the damage can be attributed to grossly negligent or willful acts, which are the responsibility of the Verband Deutscher Tonmeister e. V.
@@ -48,4 +57,4 @@ Furthermore, the association Verband Deutscher Tonmeister e. V. (VDT) is not lia
 
 ---
 
-###### last updated: August 9, 2024
+###### last updated: November 13, 2026
